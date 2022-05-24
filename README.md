@@ -1,7 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=Hi%20I%20am%20Minju,%20a%20Neuroscientist%20👋&fontSize=50" />
-
-### ** Hi I am Minju, a Neuroscientist 👋  **
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hi%20I%20am%20Minju,%20a%20Neuroscientist%20👋&fontSize=50" />
             
 <br>           
             
