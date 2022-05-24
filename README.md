@@ -1,5 +1,8 @@
-### Hi I am Minju 👋
-
+<div align="center>
+   ### Hi I am Minju 👋
+</div>
+            
+            
 <!--
 **MINJU511/MINJU511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
