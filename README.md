@@ -1,6 +1,6 @@
 <div align="center>
    ### Hi I am Minju 👋
-</div>
+
             
             
 <!--
@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 
 
 <a href = "https://api.gitofolio.com/portfolio/2254/2258"><img src = "https://api.gitofolio.com/portfoliocard/svg/2258?color=white" style="width:353px; height:auto; "/></a>
+
+</div>
