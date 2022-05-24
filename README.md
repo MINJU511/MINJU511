@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/R-red?style=flat-square&logo=R&logoColor=white"/></a>
 
 
 <a href = "https://api.gitofolio.com/portfolio/2254/2258"><img src = "https://api.gitofolio.com/portfoliocard/svg/2258?color=white" style="width:353px; height:auto; "/></a>
