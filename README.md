@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I am Minju 👋
 
 <!--
 **MINJU511/MINJU511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
 <a href = "https://api.gitofolio.com/portfolio/2254/2258"><img src = "https://api.gitofolio.com/portfoliocard/svg/2258?color=white" style="width:353px; height:auto; "/></a>
