@@ -1,5 +1,5 @@
 <div align="center>
-   ### Hi I am Minju 👋
+   # Hi I am Minju, a Neuroscientist 👋
 
             
             
